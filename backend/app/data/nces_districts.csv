@@ -1,0 +1,102 @@
+nces_id,name,state,city,type,enrollment,free_reduced_lunch_pct,esl_pct
+3620580,New York City Department of Education,NY,New York,urban,984462,0.73,0.14
+0622710,Los Angeles Unified School District,CA,Los Angeles,urban,429280,0.80,0.22
+1709930,Chicago Public Schools,IL,Chicago,urban,330150,0.77,0.18
+1200390,Miami-Dade County Public Schools,FL,Miami,urban,340350,0.73,0.16
+3200060,Clark County School District,NV,Las Vegas,urban,318040,0.60,0.18
+1200870,Broward County Public Schools,FL,Fort Lauderdale,suburban,261570,0.55,0.12
+4819380,Houston Independent School District,TX,Houston,urban,194180,0.82,0.31
+1200930,Hillsborough County Public Schools,FL,Tampa,urban,222460,0.58,0.14
+4807740,Dallas Independent School District,TX,Dallas,urban,145120,0.86,0.38
+1201320,Orange County Public Schools,FL,Orlando,urban,212480,0.56,0.16
+1201350,Palm Beach County School District,FL,West Palm Beach,suburban,197540,0.54,0.13
+4835160,Northside Independent School District,TX,San Antonio,suburban,104930,0.46,0.08
+3413020,Newark Public Schools,NJ,Newark,urban,41250,0.82,0.11
+1100030,District of Columbia Public Schools,DC,Washington,urban,51440,0.65,0.13
+1201710,Duval County Public Schools,FL,Jacksonville,urban,130820,0.53,0.08
+4826640,Fort Worth Independent School District,TX,Fort Worth,urban,82150,0.76,0.28
+2601860,Detroit Public Schools Community District,MI,Detroit,urban,49760,0.85,0.12
+0634320,San Diego Unified School District,CA,San Diego,urban,121060,0.59,0.24
+0411480,Mesa Unified District,AZ,Mesa,suburban,61740,0.48,0.09
+4820910,Cypress-Fairbanks Independent School District,TX,Houston,suburban,117820,0.52,0.21
+0405340,Gilbert Unified District,AZ,Gilbert,suburban,38410,0.18,0.05
+0636030,San Francisco Unified School District,CA,San Francisco,urban,52060,0.55,0.29
+4804620,Austin Independent School District,TX,Austin,urban,75680,0.53,0.27
+5301140,Seattle Public Schools,WA,Seattle,urban,49860,0.34,0.12
+0812990,Denver Public Schools,CO,Denver,urban,89240,0.62,0.38
+3620670,Buffalo City School District,NY,Buffalo,urban,31320,0.82,0.14
+2412060,Baltimore City Public Schools,MD,Baltimore,urban,75860,0.84,0.07
+3917124,Columbus City School District,OH,Columbus,urban,47240,0.74,0.16
+3918564,Cleveland Metropolitan School District,OH,Cleveland,urban,36420,0.83,0.11
+5509600,Milwaukee Public Schools,WI,Milwaukee,urban,73200,0.78,0.14
+4221000,Philadelphia City School District,PA,Philadelphia,urban,119820,0.81,0.10
+1302310,Gwinnett County Public Schools,GA,Suwanee,suburban,181450,0.49,0.17
+1302550,Cobb County School District,GA,Marietta,suburban,111650,0.40,0.12
+1302370,DeKalb County School District,GA,Stone Mountain,suburban,101480,0.67,0.15
+1302100,Fulton County School District,GA,Atlanta,suburban,94320,0.38,0.09
+1300120,Atlanta Public Schools,GA,Atlanta,urban,52370,0.72,0.10
+3709030,Charlotte-Mecklenburg Schools,NC,Charlotte,urban,147890,0.51,0.15
+3711700,Wake County Public School System,NC,Raleigh,suburban,162540,0.35,0.11
+4700510,Shelby County Schools,TN,Memphis,urban,105400,0.79,0.09
+4700990,Metropolitan Nashville Public Schools,TN,Nashville,urban,85130,0.68,0.20
+2503810,Boston Public Schools,MA,Boston,urban,51960,0.67,0.22
+4813740,El Paso Independent School District,TX,El Paso,urban,54470,0.75,0.30
+0621060,Fresno Unified School District,CA,Fresno,urban,73510,0.85,0.23
+2622560,Washtenaw Intermediate School District,MI,Ann Arbor,suburban,18340,0.25,0.08
+0631380,Sacramento City Unified School District,CA,Sacramento,urban,42200,0.66,0.21
+0617610,Elk Grove Unified School District,CA,Elk Grove,suburban,63290,0.48,0.20
+0637410,Santa Ana Unified School District,CA,Santa Ana,urban,44760,0.89,0.51
+0625320,Long Beach Unified School District,CA,Long Beach,urban,72630,0.67,0.18
+0627660,Oakland Unified School District,CA,Oakland,urban,35420,0.73,0.32
+4101740,Portland Public Schools,OR,Portland,urban,47350,0.42,0.11
+2900370,St. Louis Public Schools,MO,St. Louis,urban,19820,0.84,0.09
+3302700,Manchester School District,NH,Manchester,urban,13710,0.56,0.19
+0804800,Jeffco Public Schools,CO,Golden,suburban,80100,0.28,0.09
+0804680,Douglas County School District,CO,Castle Rock,suburban,68240,0.14,0.04
+0803360,Cherry Creek School District 5,CO,Greenwood Village,suburban,54870,0.22,0.13
+0801020,Aurora Public Schools,CO,Aurora,urban,38720,0.68,0.38
+5103090,Fairfax County Public Schools,VA,Falls Church,suburban,180680,0.30,0.20
+5100300,Arlington Public Schools,VA,Arlington,suburban,29050,0.28,0.24
+5101860,Loudoun County Public Schools,VA,Ashburn,suburban,84510,0.15,0.16
+5102460,Prince William County Public Schools,VA,Manassas,suburban,91320,0.38,0.25
+2016620,Wichita Unified School District 259,KS,Wichita,urban,48110,0.72,0.16
+2709000,Minneapolis Public School District,MN,Minneapolis,urban,33890,0.64,0.22
+2707200,St. Paul Public School District,MN,St. Paul,urban,34170,0.70,0.26
+1905850,Des Moines Independent Community School District,IA,Des Moines,urban,33230,0.66,0.21
+3126490,Omaha Public Schools,NE,Omaha,urban,52360,0.68,0.18
+4009150,Oklahoma City Public Schools,OK,Oklahoma City,urban,36160,0.80,0.30
+4024570,Tulsa Public Schools,OK,Tulsa,urban,33970,0.78,0.17
+0608370,Capistrano Unified School District,CA,San Juan Capistrano,suburban,47620,0.22,0.08
+0619980,Garden Grove Unified School District,CA,Garden Grove,suburban,42040,0.72,0.39
+0602790,Anaheim Union High School District,CA,Anaheim,urban,29750,0.68,0.28
+3406840,Jersey City Public Schools,NJ,Jersey City,urban,30120,0.60,0.15
+3413290,Paterson Public Schools,NJ,Paterson,urban,26380,0.83,0.22
+4218990,Pittsburgh School District,PA,Pittsburgh,urban,21520,0.71,0.07
+4908160,Salt Lake City School District,UT,Salt Lake City,urban,23840,0.52,0.24
+4906090,Granite School District,UT,Salt Lake City,suburban,67350,0.42,0.16
+4903150,Davis School District,UT,Farmington,suburban,73480,0.22,0.07
+4901860,Alpine School District,UT,American Fork,suburban,83470,0.18,0.06
+1510030,Boise Independent School District,ID,Boise,urban,25740,0.36,0.10
+3000450,Billings Public Schools,MT,Billings,urban,16310,0.38,0.05
+3800120,Bismarck Public Schools,ND,Bismarck,urban,13140,0.26,0.07
+4600060,Sioux Falls School District,SD,Sioux Falls,urban,25330,0.42,0.14
+5600030,Natrona County School District 1,WY,Casper,rural,12880,0.34,0.03
+0200090,Anchorage School District,AK,Anchorage,urban,42780,0.42,0.12
+1500030,Hawaii Department of Education,HI,Honolulu,urban,170820,0.48,0.10
+2801200,Jackson Public School District,MS,Jackson,urban,20370,0.91,0.03
+0101410,Jefferson County Board of Education,AL,Birmingham,suburban,35780,0.62,0.06
+0100390,Birmingham City Schools,AL,Birmingham,urban,22180,0.88,0.05
+0500810,Little Rock School District,AR,Little Rock,urban,21480,0.72,0.14
+2201710,East Baton Rouge Parish School System,LA,Baton Rouge,urban,39650,0.80,0.05
+2202430,Jefferson Parish Public School System,LA,Harvey,suburban,48260,0.68,0.08
+4500810,Charleston County School District,SC,Charleston,urban,50240,0.52,0.06
+4501290,Greenville County Schools,SC,Greenville,urban,77380,0.48,0.13
+5400450,Kanawha County Schools,WV,Charleston,urban,24650,0.58,0.02
+1310440,Richmond County School District,GA,Augusta,urban,30180,0.78,0.06
+1801740,Indianapolis Public Schools,IN,Indianapolis,urban,27420,0.79,0.15
+2107410,Jefferson County Public Schools,KY,Louisville,urban,96640,0.63,0.11
+2104440,Fayette County Public Schools,KY,Lexington,urban,42240,0.47,0.12
+0907380,New Haven Public Schools,CT,New Haven,urban,20130,0.78,0.15
+0903360,Hartford Public Schools,CT,Hartford,urban,18260,0.83,0.20
+4403030,Providence School Department,RI,Providence,urban,22780,0.79,0.26
+2305130,Portland Public Schools,ME,Portland,urban,6720,0.52,0.19
