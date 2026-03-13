@@ -12,6 +12,16 @@ A community platform where school district literacy leaders find and connect wit
 
 [Screenshot: Admin moderation dashboard]
 
+## Live Demo
+
+- **Frontend:** https://frontend-two-bay-88.vercel.app
+- **Backend API:** https://backend-production-5972f.up.railway.app
+- **GitHub:** https://github.com/agarg5/upstream-literacy
+
+Demo accounts:
+- Member: `sarah.chen@example.com` / `password123`
+- Admin: `admin@upstreamliteracy.com` / `admin123`
+
 ---
 
 ## Features

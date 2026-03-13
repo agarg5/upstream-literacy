@@ -10,6 +10,5 @@ pydantic[email]
 pydantic-settings
 openai
 numpy
-pgvector
 httpx
 pytest
