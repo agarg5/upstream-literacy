@@ -30,7 +30,8 @@ export default function Dashboard({ user }: Props) {
     }
   };
 
-  const hasProfile = user.district_id && user.problems && user.problems.length > 0;
+  const isAdmin = user.role === 'admin';
+  const hasProfile = isAdmin || (user.district_id && user.problems && user.problems.length > 0);
 
   return (
     <div className="max-w-6xl mx-auto">
