@@ -12,7 +12,7 @@ export default function MemberCard({ member }: Props) {
     <Link to={`/members/${member.id}`} className="block bg-white rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow p-6">
       <div className="flex items-start justify-between mb-4">
         <div className="flex items-center gap-3">
-          <div className="w-12 h-12 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-semibold text-lg">
+          <div className="w-12 h-12 min-w-[3rem] bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-semibold text-lg flex-shrink-0">
             {member.name.charAt(0)}
           </div>
           <div>

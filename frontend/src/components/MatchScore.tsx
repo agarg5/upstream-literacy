@@ -7,7 +7,7 @@ export default function MatchScore({ score, size = 'md' }: Props) {
   const getColor = () => {
     if (score >= 75) return 'text-green-600 bg-green-50 border-green-200';
     if (score >= 50) return 'text-accent-600 bg-accent-50 border-accent-200';
-    return 'text-gray-600 bg-gray-50 border-gray-200';
+    return 'text-primary-600 bg-primary-50 border-primary-200';
   };
 
   const sizeClasses = {
@@ -17,7 +17,7 @@ export default function MatchScore({ score, size = 'md' }: Props) {
   };
 
   return (
-    <span className={`rounded-full border font-semibold ${getColor()} ${sizeClasses[size]}`}>
+    <span className={`rounded-full border font-semibold whitespace-nowrap ${getColor()} ${sizeClasses[size]}`}>
       {score}% match
     </span>
   );
