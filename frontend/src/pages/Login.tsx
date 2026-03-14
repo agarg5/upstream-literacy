@@ -133,15 +133,33 @@ export default function Login({ onLogin }: Props) {
                 <div className="w-full border-t border-gray-200" />
               </div>
               <div className="relative flex justify-center text-sm">
-                <span className="px-2 bg-white text-gray-500">New to Upstream Literacy?</span>
+                <span className="px-2 bg-white text-gray-500">Demo Accounts</span>
               </div>
+            </div>
+            <div className="mt-3 space-y-2">
+              <button
+                type="button"
+                onClick={() => { setEmail('sarah.chen@example.com'); setPassword('password123'); }}
+                className="w-full text-left px-3 py-2 rounded-lg border border-gray-200 hover:border-[#1e3a5f]/30 hover:bg-gray-50 transition-colors text-sm"
+              >
+                <span className="font-medium text-gray-700">Member:</span>{' '}
+                <span className="text-gray-500">sarah.chen@example.com</span>
+              </button>
+              <button
+                type="button"
+                onClick={() => { setEmail('admin@upstreamliteracy.com'); setPassword('admin123'); }}
+                className="w-full text-left px-3 py-2 rounded-lg border border-gray-200 hover:border-[#1e3a5f]/30 hover:bg-gray-50 transition-colors text-sm"
+              >
+                <span className="font-medium text-gray-700">Admin:</span>{' '}
+                <span className="text-gray-500">admin@upstreamliteracy.com</span>
+              </button>
             </div>
             <div className="mt-4 text-center">
               <Link
                 to="/register"
                 className="text-sm font-medium text-[#1e3a5f] hover:text-[#e8a838] transition-colors"
               >
-                Create an account
+                Or create a new account
               </Link>
             </div>
           </div>
