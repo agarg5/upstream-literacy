@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom';
-import { Home, Search, MessageSquare, User as UserIcon, Shield, LogOut, Users, BarChart3 } from 'lucide-react';
+import { Home, Search, MessageSquare, UserCircle, Shield, LogOut, Users, BarChart3 } from 'lucide-react';
 import { logout, User } from '../services/auth';
 
 interface Props {
@@ -12,6 +12,7 @@ export default function Layout({ user, children }: Props) {
 
   const navItems = [
     { path: '/', icon: Home, label: 'Dashboard' },
+    { path: '/profile', icon: UserCircle, label: 'My Profile' },
     { path: '/search', icon: Search, label: 'Find Leaders' },
     { path: '/messages', icon: MessageSquare, label: 'Messages' },
   ];

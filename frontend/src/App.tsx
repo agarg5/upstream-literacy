@@ -6,6 +6,7 @@ import Register from './pages/Register';
 import Onboarding from './pages/Onboarding';
 import Dashboard from './pages/Dashboard';
 import Search from './pages/Search';
+import Profile from './pages/Profile';
 import MemberProfile from './pages/MemberProfile';
 import Messages from './pages/Messages';
 import Conversation from './pages/Conversation';
@@ -64,6 +65,8 @@ function App() {
     <Layout user={user}>
       <Routes>
         <Route path="/" element={<Dashboard user={user!} />} />
+        <Route path="/profile" element={<Profile user={user!} />} />
+        <Route path="/onboarding" element={<Onboarding user={user!} onComplete={refreshUser} />} />
         <Route path="/search" element={<Search user={user!} />} />
         <Route path="/members/:id" element={<MemberProfile user={user!} />} />
         <Route path="/messages" element={<Messages user={user!} />} />
